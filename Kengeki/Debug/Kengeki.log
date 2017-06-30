@@ -1,0 +1,15 @@
+﻿  Skill.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(254): warning C4838: 'double' から 'FLOAT' への変換には縮小変換が必要です
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(254): warning C4244: '初期化中': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(261): warning C4838: 'double' から 'FLOAT' への変換には縮小変換が必要です
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(261): warning C4244: '初期化中': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(268): warning C4838: 'double' から 'FLOAT' への変換には縮小変換が必要です
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(268): warning C4244: '初期化中': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(275): warning C4838: 'double' から 'FLOAT' への変換には縮小変換が必要です
+c:\users\owner\desktop\kengeki\kengeki\main.cpp(275): warning C4244: '初期化中': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  Kengeki.vcxproj -> C:\Users\Owner\Desktop\kengeki\Debug\Kengeki.exe
+  Kengeki.vcxproj -> C:\Users\Owner\Desktop\kengeki\Debug\Kengeki.pdb (Partial PDB)
